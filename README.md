@@ -1,6 +1,6 @@
 **KONFIGURACJA**
 - Znajdź plik config.json i otwórz go,
-- Znajdziesz w nim pola: token - wpisujesz tu token swojego bota, cooldown - podajesz w sekundach, co ile ma sie zmieniac status, list - ustawiasz tu wlasne statusy.
+- Znajdziesz w nim pola: token - wpisujesz tu token swojego bota, cooldown - podajesz w sekundach, co ile ma sie zmieniać status, list - ustawiasz tu własne statusy.
 
 **KONFIGURACJA STATUSU**
 - Aktualnie dostępne typy gier: FiveM, Minecraft.
