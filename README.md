@@ -1,9 +1,8 @@
-**KONFIGURACJA**
-- Znajdź plik config.json i otwórz go,
-- Znajdziesz w nim pola: token - wpisujesz tu token swojego bota, cooldown - podajesz w sekundach, co ile ma sie zmieniać status, list - ustawiasz tu własne statusy.
+**GENERAL CONFIGURATION**
+- Find config.json and open it,
+- You can find in it fields like: token - your discord bot's token, cooldown - time to change to next status (in seconds), list - set up your servers. 
 
-**KONFIGURACJA STATUSU**
-- Aktualnie dostępne typy gier: FiveM, Minecraft.
-- Dostępne zmienne w polu status: {ONLINE}, {MAX}.
-- Pole off określa, co wyświetli się, gdy serwer jest wyłączony.
-- Host & Port określają adres docelowy serwera.
+**SERVER STATUS CONFIGURATION**
+- Available games: FiveM, Minecraft.
+- Variables to use: {ONLINE}, {MAX},
+- Field named "off" sets a text showed if the server is off.
